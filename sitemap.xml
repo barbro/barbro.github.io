@@ -2,13 +2,17 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://www.barborer.com/hatzura/lessons/first_lesson/</loc>
+    <lastmod>2021-03-21T06:20:31+02:00</lastmod>
+  </url><url>
+    <loc>https://www.barborer.com/hatzura/lessons/</loc>
+    <lastmod>2021-03-21T06:20:31+02:00</lastmod>
+  </url><url>
     <loc>https://www.barborer.com/hatzura/</loc>
     <lastmod>2021-03-21T06:20:31+02:00</lastmod>
   </url><url>
     <loc>https://www.barborer.com/hatzura/categories/</loc>
   </url><url>
     <loc>https://www.barborer.com/hatzura/tags/</loc>
-  </url><url>
-    <loc>https://www.barborer.com/hatzura/</loc>
   </url>
 </urlset>
