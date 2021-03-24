@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>My New Hugo Site</title>
-    <link>barbro.github.io/</link>
-    <description>Recent content on My New Hugo Site</description>
+    <title>אפטר אפקטס בסיסי</title>
+    <link>https://www.barborer.com/hatzura/</link>
+    <description>Recent content on אפטר אפקטס בסיסי</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="barbro.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="https://www.barborer.com/hatzura/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title></title>
-      <link>barbro.github.io/</link>
+      <link>https://www.barborer.com/hatzura/</link>
       <pubDate>Sun, 21 Mar 2021 06:20:31 +0200</pubDate>
       
-      <guid>barbro.github.io/</guid>
+      <guid>https://www.barborer.com/hatzura/</guid>
       <description>שיעור ראשון מרחב עבודה ניווט בלאייאאוט אפטר אפטקס בנוי מחלונות שמציגים לנו אינפורמציה שונה, חלק מידע יבש וחלק מידע חזותי.
 את החלונות אפשר לערום לתוך מיקום של חלון אחד, ואז נוכל לדפדף בין החלונות השונים כמו תיקיות בכרום.
 אם יהיה לנו יותר מדי כרטיסיות פתוחות, יופיע לנו שני חיצים קטנים בסוף השורה שתאפשר לנו לראות רשימה של כל החלונות.
